@@ -1,7 +1,7 @@
-var api = 'http://explorer.mining.blue/domain';
+var api = 'http:localhost:18236';
 var blockTargetInterval = 120;
-var coinUnits = 1000000000000;
-var symbol = 'XBB';
+var coinUnits = 1500000000;
+var symbol = 'BDX';
 var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
